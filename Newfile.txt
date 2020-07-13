@@ -1,0 +1,3 @@
+Welcome to Devops training
+Hello all
+
