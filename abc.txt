@@ -4,7 +4,5 @@ This is git project which we are using as sample project
 GIt hub repository
 auto merge in git
 
-google cloud
-
 
 
