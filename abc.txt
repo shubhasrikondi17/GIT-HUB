@@ -3,6 +3,7 @@ This is git project which we are using as sample project
 ##git comparision 
 GIt hub repository
 auto merge in git
+chck merger conflicts in rebase
 
 
 
