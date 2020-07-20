@@ -3,7 +3,8 @@ This is git project which we are using as sample project
 ##git comparision 
 GIt hub repository
 auto merge in git
-one more change
+
+merge conflicts
 
 
 
